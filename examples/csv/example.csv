@@ -1,0 +1,5 @@
+CUSTOMER ID; STATUS; CUSTOMER NAME; CUSTOMER ADDRESS; NOTES
+42849; Active; Jeremy Futzstead; 20 Bilbrook Avenue, Boston MA 02140; He drinks milk every day
+42850; Inactive; Diane McDonald; 142 Pine Street, San Fernando CA 12345; She orders the same thing every time
+42851; Active; John Dough; 77 Mulberry Court, London UK A2N FY82; I can't understand his accent
+42852; Active; Diane McDonald; 890 MacLean Road, San Fernando CA 12345; Moved, registered new account instead of updating, previous customer ID 42850
